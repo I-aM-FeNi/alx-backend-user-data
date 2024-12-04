@@ -79,4 +79,4 @@ This project contains tasks for learning to protect a user's personal data.
   + Use bcrypt to validate that the provided password matches the hashed password.
 
 
-Modified by Malcolm Iheremelam
+Modified by Mamello Motaung.
